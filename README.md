@@ -13,7 +13,7 @@ Current state is just an example prototype of balancing functionality that would
 
 Expect updates as I progress in the project.
 
-![](https://github.com/Mockedarche/ESP_Plane/blob/main/IMG_3510.png?raw=true)
+![](https://github.com/Mockedarche/ESP_Plane/blob/main/IMG_3510_resized.png?raw=true)
 
 
 
